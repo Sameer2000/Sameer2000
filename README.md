@@ -2,7 +2,7 @@
 
 ->> I’m currently learning full stack web development and I am also learning Japanese.
 
-->> SKILLS
+->> SKILLS --->>
     # Java
     # HTML
     # CSS
