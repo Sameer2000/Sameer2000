@@ -2,9 +2,16 @@
 
 ->> I’m currently learning full stack web development and I am also learning Japanese.
 
-->> I want to become a developer.
+->> SKILLS
+    # Java
+    # HTML
+    # CSS
+    # JavaScript
+    # Bootstrap
+    # JQuery
+    # Web Design
 
-->> Currently I'm in my learning phase so i can't really collaborate on any project but once i am ready you can reach me. 
+->> I am open to collaborate on Front-end projects. 
 
 ->> You can reach me by email - sameerofficial895@gmail.com
 
