@@ -9,7 +9,10 @@
     # JavaScript
     # Bootstrap
     # JQuery
-    # Web Design
+    # Node.Js
+    # Express.Js
+    # Mongo DB
+    # Git
 
 ->> I am open to collaborate on Front-end projects. 
 
